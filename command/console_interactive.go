@@ -1,8 +1,3 @@
-// +build !solaris
-
-// The readline library we use doesn't currently support solaris so
-// we just build tag it off.
-
 package command
 
 import (
