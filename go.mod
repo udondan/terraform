@@ -46,7 +46,7 @@ require (
 	github.com/hashicorp/aws-sdk-go-base v0.3.0
 	github.com/hashicorp/consul v0.0.0-20171026175957-610f3c86a089
 	github.com/hashicorp/errwrap v1.0.0
-	github.com/hashicorp/go-azure-helpers v0.5.0
+	github.com/hashicorp/go-azure-helpers v0.5.1-0.20190814154503-99ba46646733
 	github.com/hashicorp/go-checkpoint v0.5.0
 	github.com/hashicorp/go-cleanhttp v0.5.0
 	github.com/hashicorp/go-getter v1.3.1-0.20190627223108-da0323b9545e
